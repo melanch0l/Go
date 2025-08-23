@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"github.com/melanch0l/learngobydoing/exercise"
 )
 
 type Person struct {
@@ -10,6 +11,7 @@ type Person struct {
 }
 
 func main() {
+	exercise.Exercise()
 	person := Person{name: "min", age: 26} //pass this value to func
 	x := 20
 	ptr := &x
