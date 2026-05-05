@@ -1,1 +1,1 @@
-Learning Go For Real this time 👌
+Learning Go For Real 😊
